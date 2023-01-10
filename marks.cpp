@@ -22,7 +22,7 @@
         }
     }
     else {
-        cout<<"fail";
+        cout<<"F grade";
     }
     return 0;
  }
